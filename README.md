@@ -1,8 +1,5 @@
 # matplotlib-challenge
 
-UCSD Data Science and Visualization Bootcamp - Matplotlib HW 23 Dec 2020
-
-This repository contains files pertaining to the Matplotlib Homework due 23 Dec 2020.
 
 NOTE: Statistical Observations made based on Pymaceuticals analysis are located at the top of the Pymaceuticals.ipynb notebook.
 
