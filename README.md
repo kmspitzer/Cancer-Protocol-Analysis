@@ -18,6 +18,8 @@ to perform the following analyses:
 
 
     - Generates a pie plot using both Pandas's DataFrame.plot() and Matplotlib's pyplot that shows the distribution of female vs. male mice in the study.
+    
+   ![image](/Pymaceuticals/img/pymaceutpie.png) 
 
 
     - Calculates the final tumor volume of each mouse across four of the most promising treatment regimens: Capomulin, Ramicane, Infubinol, and Ceftamin. Calculates
@@ -26,16 +28,26 @@ to perform the following analyses:
 
     - Generates a box and whisker plot of the final tumor volume for each of the four treatment regimens of interest and highlights any potential outliers in the plot
         by changing their color and style.
+        
+   ![image](/Pymaceuticals/img/pymaceutbox.png) 
 
 
     - Generates a line plot of tumor volume vs. time point for a single mouse in the Capomulin study.
+    
+    
+   ![image](/Pymaceuticals/img/pymaceutline.png) 
 
 
     - Generates a scatter plot of mouse weight versus average tumor volume for the Capomulin treatment regimen.
+    
+    
+   ![image](/Pymaceuticals/img/pymaceutscatter.png)
 
 
     - Calculates the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment, plot the linear
         regression model on top of the previous scatter plot.
+        
+   ![image](/Pymaceuticals/img/pymaceutcorrel.png)
 
 
     -  Observations and inferences made based on the data are included as markdowns at the top of notebook.
